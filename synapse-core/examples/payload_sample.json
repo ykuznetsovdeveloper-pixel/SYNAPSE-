@@ -1,0 +1,14 @@
+{
+  "transaction_id": "syn-x99-v2",
+  "engineer_signature": "sha256:7f83b165...",
+  "priority": "HIGH",
+  "content": {
+    "video_source_url": "s3://secure-bucket/render_final.mp4",
+    "caption": "POV: AI takes over. #future #tech",
+    "privacy_level": "PUBLIC"
+  },
+  "scheduling_logic": {
+    "mode": "AUTONOMOUS_OPTIMIZED",
+    "trigger_condition": "AUDIENCE_SPIKE > 15%"
+  }
+}
